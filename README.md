@@ -37,8 +37,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Blexedpritam&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Blexedpritam&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshu-ag24&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-ag24&theme=tokyonight" height="165"/>
 </p>
 
 ---
@@ -54,9 +54,3 @@
 <img src="assets/banner.gif" width="100%" alt="banner" />
 
 </div>
-
-
-
-
-
-
